@@ -202,7 +202,8 @@ MySQL Database (Azure)
 
 ## 👨‍💻 Author
 
-**Shubham Sonavane**  
+**Abhishek Patil**  AND  **Shubham Sonavane**  
+
 Full Stack Developer | Java • .NET • Python
 
 ---
